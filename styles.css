@@ -1,0 +1,45 @@
+/* @import url("header_styles.css");
+@import url("nav_styles.css"); */
+
+body {
+  background-image: url("Images/Background.png");
+  background-repeat: repeat;
+  font-family: "Josefin Sans", sans-serif;
+  position: relative;
+  margin: 0 auto;
+  height: auto;
+  font-size: 14pt;
+  line-height: 25px;
+}
+
+btn-aboutpage {
+}
+
+#site-contain {
+  position: relative;
+  margin: 0 auto;
+  height: auto;
+}
+
+#page-contain {
+  position: relative;
+  margin: 0 auto;
+  height: auto;
+}
+
+/* .navimage{
+    color: white;
+    transition-duration: 600ms;
+    background-image: url("Images/NavButton.png");
+}
+.navimage:hover{
+    transition-duration: 500ms;
+    background-image: url("Images/NavButtonHover.png");
+} */
+
+.navlink {
+  /* width: 100px; */
+  /* background-color: white; */
+  /* background-image: url("Images/NavButton.png"); */
+  /* color: white; */
+}

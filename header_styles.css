@@ -1,0 +1,21 @@
+/* #header{
+    float: left;
+    height: 150px;
+    position: relative;
+    background-color: pink;
+}
+
+#logo{
+    width: 25%;
+    text-align: center;
+    font-size: 3vw;
+    background-color: pink;
+}
+
+#logo span{
+    color: white;
+}
+
+#logo p:nth-of-type(2){
+    color: yellow;
+} */
